@@ -18,4 +18,4 @@ Este proyecto está diseñado para ayudar a los desarrolladores a entender cómo
 1. Clona el repositorio en tu máquina local o descarga los archivos del proyecto.
    
    ```bash
-   git clone 
+   git clone https://github.com/Brian-s47/PromesasJSAprendeJugando
